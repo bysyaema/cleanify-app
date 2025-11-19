@@ -1,4 +1,3 @@
-gini bukan sihh
 # Cleanify App
 Aplikasi layanan kebersihan rumah yang dirancang untuk mempermudah pengguna dalam memesan jasa seperti pembersihan reguler, premium, langganan harian–mingguan–bulanan, dan pilihan layanan tambahan seperti cuci sofa, cuci karpet, memasak, berbelanja, dan lainnya.
 
