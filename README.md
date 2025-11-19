@@ -2,9 +2,6 @@ gini bukan sihh
 # Cleanify App
 Aplikasi layanan kebersihan rumah yang dirancang untuk mempermudah pengguna dalam memesan jasa seperti pembersihan reguler, premium, langganan harian–mingguan–bulanan, dan pilihan layanan tambahan seperti cuci sofa, cuci karpet, memasak, berbelanja, dan lainnya.
 
-Cleanify App dibuat menggunakan **Flutter** dengan **Riverpod** sebagai state management.  
-Aplikasi ini masih berupa versi awal untuk kebutuhan tugas, yang fokus pada UI/UX dan interaksi dasar.
-
 ---
 
 ## **Fitur Utama**
